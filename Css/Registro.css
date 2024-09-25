@@ -1,0 +1,96 @@
+                        /*-----------Registro---------------*/
+
+#Registro{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    background-color: rgb(235, 152, 78);
+}
+
+.containerReg{
+    width: 550px;
+    height: 550px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 110px;
+    margin-left: 655px;
+}
+
+img{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 880px;
+    margin-top: -65px;
+}
+
+#titulo{
+    position: absolute;
+    margin-left: 980px;
+    margin-top: -32px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: rgb(214, 234, 248);
+}
+
+.Formulario{
+    width: 150px;
+    margin-left: 55px;
+    margin-top: 75px;
+}
+
+label{
+    position:absolute;
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    font-size: 23px;
+    margin-top: 15px;
+    color: rgb(214, 234, 248);
+}
+
+input[type='text'],
+input[type='name'],
+input[type='date'],
+input[type='password'],
+input[type='checkbox']{
+    position: relative;
+    height: 22px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 225px;
+    margin-top: 10px;
+    background-color: transparent;
+    transition: 0.3s;
+}
+
+input:hover{
+    background-color: rgba(207, 216, 220, 0.7);
+}
+
+#Agregar{
+    position: absolute;
+    width: 110px;
+    height: 35px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    color: rgb(214, 234, 248);
+    top: 550px;
+    margin-left: 175px;
+    background-color: transparent;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#Agregar:hover{
+    background-color: rgba(207, 216, 220, 0.7);
+}
+
+footer h4{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(214, 234, 248);
+    margin-top: 200px;
+}

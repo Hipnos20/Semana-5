@@ -1,0 +1,97 @@
+                                            /*Logueo*/
+#logueo{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    background-color: rgb(235, 152, 78);
+}
+
+img{
+    position:absolute;
+    width: 150px;
+    height: 150px;
+    margin-left: 850px;
+    margin-top: 70px;
+}
+
+.Ilogueo{
+    width: 550px;
+    height: 520px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 180px;
+    margin-left: 655px;
+    display: inline-block;
+}
+
+label{
+    text-align:left;
+    margin-left: 150px;
+    margin-top: 55px;
+    display: block;
+    font-family: "Montserrat", sans-serif;
+    font-size: 23px;
+    color: rgb(214, 234, 248);
+}
+
+
+input[type='text'],
+input[type='password']{
+    position: relative;
+    height: 22px;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 130px;
+    margin-top: 10px;
+    background-color: transparent;
+    transition: 0.3s;
+}
+
+input:hover{
+    background-color: rgba(207, 216, 220, 0.7);
+}
+
+#Iniciar{
+    position: absolute;
+    width: 110px;
+    height: 35px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    color: rgb(214, 234, 248);
+    top: 480px;
+    margin-left: -325px;
+    background-color: transparent;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#Iniciar:hover{
+    background-color: rgba(207, 216, 220, 0.7);
+}
+
+#Text{
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    color: rgba(86, 101, 115, 0.7);
+    margin-left: 810px;
+    margin-top: -150px;
+}
+
+#enlance{
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    color: rgba(86, 101, 115);
+    margin-left: 900px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+footer h4{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(214, 234, 248);
+    margin-top: 130px;
+    margin-left: 800px;
+}

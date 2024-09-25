@@ -1,0 +1,134 @@
+#Contactenos{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    background-color: rgb(235, 152, 78);
+}
+
+img{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    margin-left: 200px;
+    top: 15px;
+    border-radius: 50%;
+}
+
+.MenuP{
+    position: relative;
+    height: 50px;
+    width: 1050px;
+    border: 2px solid rgb(214, 234, 248);
+    margin-top: -70px;
+    margin-left: 325px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.MenuC{
+    position: relative;
+    height: 50px;
+    width: 1050px;
+    border: 2px solid rgb(214, 234, 248);
+    margin-top: -70px;
+    margin-left: 325px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#Ubicacion{
+    width: 45px;
+    height: 45px;
+    margin-top: -13px;
+}
+
+#textoC{
+    position: absolute;
+    margin-left: 480px;
+    margin-top: -27px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    color: rgb(214, 234, 248);
+}
+
+.MapaContactenos{
+    width: 1350px;
+    height: 550px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 45px;
+    margin-left: 190px;
+}
+
+#encontrar{
+    width: 1293px;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 55px;
+    margin-left: 25px;
+}
+
+#textoU{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    color: rgb(214, 234, 248);
+}
+
+ul li{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: rgb(214, 234, 248);
+    margin-left: 170px;
+    margin-top: 15px;
+    list-style: none;
+}
+
+#Correo{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    border-radius: 10%;
+    margin-top: 550px;
+    margin-left: 80px;
+}
+
+#MI{
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+    margin-top: 550px;
+    margin-left: 550px;
+    cursor: pointer;
+}
+
+#Mf{
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+    margin-top: 550px;
+    margin-left: 680px;
+    cursor: pointer;
+}
+
+#Mw{
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+    margin-top: 550px;
+    margin-left: 780px;
+    cursor: pointer;
+}
+
+footer h4{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(214, 234, 248);
+    margin-top: 20px;
+
+}
+

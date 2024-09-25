@@ -1,0 +1,95 @@
+                                                /*Pagina Principal*/
+*{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+}
+
+body{
+    background-color: rgb(235, 152, 78);
+}
+img{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    margin-left: 200px;
+    top: 15px;
+    border-radius: 50%;
+    
+}
+
+.MenuP{
+    position: relative;
+    height: 50px;
+    width: 1050px;
+    border: 2px solid rgb(214, 234, 248);
+    margin-top: -70px;
+    margin-left: 325px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.MenuP ul{
+    list-style: none;
+    padding: 15px 42px 0 ;
+    display: inline-block;
+    margin-left: 55px;
+}
+
+.MenuP ul h3{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(214, 234, 248);
+}
+
+.Sesion{
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+    margin-left: 1510px;
+    top: -50px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.Sesion:hover{
+    background-color: rgb(204, 209, 209);
+}
+
+.Sesion h4{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(214, 234, 248);
+}
+
+.display{
+    width: 500px;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10px;
+    margin-left: 55px;
+    display: inline-block;
+}
+
+.video{
+    width: 750px;   
+    height: 250px;
+    border: 2px solid rgb(214, 234, 248);
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 450px;
+    margin-top: 15px;
+}
+
+footer h4{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(214, 234, 248);
+    margin-top: 20px;
+}
+
+                                                         
+
+
+

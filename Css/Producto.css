@@ -1,0 +1,141 @@
+#Producto{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    background-color: rgb(235, 152, 78);
+}
+
+img{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    margin-left: 200px;
+    top: 15px;
+    border-radius: 50%;
+}
+
+.MenuP{
+    position: relative;
+    height: 50px;
+    width: 1050px;
+    border: 2px solid rgb(214, 234, 248);
+    margin-top: -70px;
+    margin-left: 325px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.MenuP{
+    position: relative;
+    height: 50px;
+    width: 1050px;
+    border: 2px solid rgb(214, 234, 248);
+    margin-top: -70px;
+    margin-left: 325px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#Ubicacion{
+    width: 45px;
+    height: 45px;
+    margin-top: -13px;
+}
+
+#textoP{
+    position: absolute;
+    margin-left: 480px;
+    margin-top: -27px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    color: rgb(214, 234, 248);
+}
+
+.ProductoI, .ProductoI1, .ProductoI2{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 60px;
+    margin-left:250px;
+}
+
+#P1, #P2, #P3{
+    display: inline-block;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: -180px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: rgb(214, 234, 248);
+}
+
+#Vista1, #Vista2, #Vista3{
+    display: inline-block;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: -180px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: rgb(214, 234, 248);
+    cursor: pointer;
+}
+
+.contenedor2{
+    width: 1270px;
+    height: 270px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 65px;
+    margin-left:250px;
+}
+
+#Compra{
+    width: 220px;
+    height: 220px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 25px;
+    margin-left:50px;
+}
+
+#TextoCom1{
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: rgb(214, 234, 248);
+    margin-top: -150px;
+    margin-left: 680px;
+   
+}
+
+#TextoCom2{
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: rgb(214, 234, 248);
+    margin-top: -105px;
+    margin-left: 460px;
+}
+
+#Agregar{
+    position: absolute;
+    width: 110px;
+    height: 45px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    color: rgb(214, 234, 248);
+    margin-top: -60px;
+    margin-left: 605px;
+    background-color: transparent;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#Agregar:hover{
+    background-color: rgba(207, 216, 220, 0.7);
+}
+
+    
+
